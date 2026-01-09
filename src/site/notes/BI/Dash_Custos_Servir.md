@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/bi/dash-custos-servir/"}
+{"dg-publish":true,"permalink":"/bi/dash-custos-servir/","tags":["gardenEntry"]}
 ---
 
 
